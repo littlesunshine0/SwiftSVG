@@ -17,8 +17,7 @@ let package = Package(
         .executableTarget(
             name: "SwiftSVG",
             dependencies: [],
-            path: "Sources",
-            exclude: ["SwiftSVG/Resources/Info.plist"]
+            path: "Sources"
         )
     ]
 )
