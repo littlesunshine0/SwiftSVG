@@ -1,0 +1,11 @@
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/AppCoordinator.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/FileManager.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/SVGColor.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/SVGItem.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Parsers/SVGParser.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Parsers/SVGRenderer.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/SwiftSVGApp.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/ContentView.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGLayoutViews.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGPreview.swift
+/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGThumbnail.swift

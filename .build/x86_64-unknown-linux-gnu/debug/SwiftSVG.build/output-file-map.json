@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/master.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/AppCoordinator.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/AppCoordinator.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/AppCoordinator.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/AppCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/AppCoordinator.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/FileManager.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/FileManager.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/FileManager.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/FileManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/FileManager.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/SVGColor.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGColor.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGColor.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGColor~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGColor.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Models/SVGItem.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGItem.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGItem.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGItem~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGItem.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Parsers/SVGParser.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGParser.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGParser.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGParser~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGParser.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Parsers/SVGRenderer.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGRenderer.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGRenderer.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGRenderer.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/SwiftSVGApp.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SwiftSVGApp.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SwiftSVGApp.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SwiftSVGApp~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SwiftSVGApp.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/ContentView.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/ContentView.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/ContentView.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/ContentView.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGLayoutViews.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGLayoutViews.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGLayoutViews.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGLayoutViews~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGLayoutViews.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGPreview.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGPreview.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGPreview.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGPreview~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGPreview.swiftdeps"
+  },
+  "/home/runner/work/SwiftSVG/SwiftSVG/Sources/SwiftSVG/Views/SVGThumbnail.swift": {
+    "dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGThumbnail.d",
+    "object": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGThumbnail.swift.o",
+    "swiftmodule": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGThumbnail~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/SwiftSVG/SwiftSVG/.build/x86_64-unknown-linux-gnu/debug/SwiftSVG.build/SVGThumbnail.swiftdeps"
+  }
+}
