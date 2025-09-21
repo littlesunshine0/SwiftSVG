@@ -1,0 +1,22 @@
+# Build artifacts
+.build/
+.swiftpm/
+*.xcworkspace
+*.xcuserdata
+
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+.build-configuration
+build/
+
+# IDE
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
